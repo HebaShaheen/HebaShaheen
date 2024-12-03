@@ -1,2 +1,1 @@
-### This is a readme file 
-** Welcome **
+This is a readme file

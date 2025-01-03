@@ -37,7 +37,8 @@ clients and end users.
 
 | Category               | Skills/Tools                          |
 |------------------------|---------------------------------------|
-| **Programming Languages** | Python, PHP, JavaScript, HTML, CSS, Java, C                    |
+| **Programming Languages** | Python, PHP, JavaScript, HTML,
+CSS, Java, C                    |
 | **Technologies**   | Git, GitHub                 |
 | **Design tools**        | Adobe XD, Figma                    |
 | **Other Tools**          | Microsoft Word, PowerPoint, Excel             |
@@ -45,9 +46,11 @@ clients and end users.
 ## Quote I Love ❤️
 
 >
->_"Success is not final, failure is not fatal: It is the courage to continue that counts."_
+>_"Success is not final, failure is not fatal:
+It is the courage to continue that counts."_
 Winston Churchill
 
 ## Finally 🎉
 
-Thank you for taking the time to visit my profile! I truly appreciate your interest, and I hope you found it insightful. 😊
+Thank you for taking the time to visit my profile!
+I truly appreciate your interest, and I hope you found it insightful.😊

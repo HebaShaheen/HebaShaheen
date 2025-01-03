@@ -5,52 +5,50 @@
 
 ## **A software Engineer** </>💻🎓
 
-I earned my bachelor's degree in 2023,
-recently enrolled in the **MIT Emerging Talent Foundation program**.
+I earned my bachelor's degree in 2023,  
+recently enrolled in the **MIT Emerging Talent Foundation program**.  
 currently working as a UX/UI designer.
 
 ## About Me 📚 👩‍🎓  
 
-As a software engineer with a focus on front-end development, 
-I possess a strong skill set in HTML, CSS, JavaScript, Bootstrap, and PHP.
-I am well-versed in software development methodologies and have experience
-in writing clean and efficient code. My expertise also extends to testing
-code and building databases to ensure the scalability and performance
+As a software engineer with a focus on front-end development,  
+I possess a strong skill set in HTML, CSS, JavaScript, Bootstrap, and PHP.  
+I am well-versed in software development methodologies and have experience  
+in writing clean and efficient code. My expertise also extends to testing  
+code and building databases to ensure the scalability and performance  
 of web applications.
 
-I am an experienced UX/UI designer specializing in creating intuitive 
-and visually appealing user experiences.With expertise in Figma and Adobe XD,
-I can design aesthetically pleasing and easy-to-use screens.
-My goal is to transform complex problems into intuitive solutions
+I am an experienced UX/UI designer specializing in creating intuitive  
+and visually appealing user experiences. With expertise in Figma and Adobe XD,  
+I can design aesthetically pleasing and easy-to-use screens.  
+My goal is to transform complex problems into intuitive solutions  
 that enhance user engagement and satisfaction.
 
-By combining my skills in UX/UI design and front-end development,
-I am capable of delivering high-quality and user-centric web solutions.
-I am dedicated to creating seamless user experiences and developing
-robust and scalable web applications that meet the needs of both 
+By combining my skills in UX/UI design and front-end development,  
+I am capable of delivering high-quality and user-centric web solutions.  
+I am dedicated to creating seamless user experiences and developing  
+robust and scalable web applications that meet the needs of both  
 clients and end users.
 
 ---
 
 ## Skills and Tools 💻
 
-
 | Category               | Skills/Tools                          |
 |------------------------|---------------------------------------|
-| **Programming Languages** | Python, PHP, JavaScript, HTML,
-CSS, Java, C                    |
-| **Technologies**   | Git, GitHub                 |
-| **Design tools**        | Adobe XD, Figma                    |
-| **Other Tools**          | Microsoft Word, PowerPoint, Excel             |
+| **Programming Languages** | Python, PHP, JavaScript, HTML, CSS, Java, C |
+| **Technologies**        | Git, GitHub                           |
+| **Design tools**        | Adobe XD, Figma                      |
+| **Other Tools**         | Microsoft Word, PowerPoint, Excel     |
 
 ## Quote I Love ❤️
 
 >
->_"Success is not final, failure is not fatal:
+>_"Success is not final, failure is not fatal:  
 It is the courage to continue that counts."_
 Winston Churchill
 
 ## Finally 🎉
 
-Thank you for taking the time to visit my profile!
-I truly appreciate your interest, and I hope you found it insightful.😊
+Thank you for taking the time to visit my profile!  
+I truly appreciate your interest, and I hope you found it insightful. 😊

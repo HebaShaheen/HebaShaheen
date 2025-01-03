@@ -1,7 +1,7 @@
 
 # Hi there, I am Heba! 🙋‍♀️
 
-![UX/UI & Web](https://mir-s3-cdn-cf.behance.net/9a04dbe222f9908446f411cbd266f993/86db3b66-64a5-4cf4-9c20-b7679e299db1_rwc_0x42x1584x312x1584.png?h=ec1aff411592e9281bf47001d4f2d6c8)
+![GIF of a person working on a computer](https://mir-s3-cdn-cf.behance.net/9a04dbe222f9908446f411cbd266f993/86db3b66-64a5-4cf4-9c20-b7679e299db1_rwc_0x42x1584x312x1584.png?h=ec1aff411592e9281bf47001d4f2d6c8)
 
 ### **A software Engineer** </>💻🎓
 
@@ -19,6 +19,7 @@ By combining my skills in UX/UI design and front-end development, I am capable o
 ---
 
 ##  Skills and Tools 💻
+
 
 | Category               | Skills/Tools                          |
 |------------------------|---------------------------------------|

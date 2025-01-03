@@ -11,20 +11,24 @@ currently working as a UX/UI designer.
 
 ## About Me 📚 👩‍🎓  
 
-As a software engineer with a focus on front-end development, I possess a strong skill
-set in HTML, CSS, JavaScript, Bootstrap, and PHP.
+As a software engineer with a focus on front-end development, 
+I possess a strong skill set in HTML, CSS, JavaScript, Bootstrap, and PHP.
 I am well-versed in software development methodologies and have experience
 in writing clean and efficient code. My expertise also extends to testing
-code and building databases to ensure the scalability and performance of web applications.
+code and building databases to ensure the scalability and performance
+of web applications.
 
-I am an experienced UX/UI designer specializing in creating intuitive and visually appealing user experiences.
-With expertise in Figma and Adobe XD, I can design aesthetically pleasing and easy-to-use screens.
-My goal is to transform complex problems into intuitive solutions that enhance user engagement and satisfaction.
+I am an experienced UX/UI designer specializing in creating intuitive 
+and visually appealing user experiences.With expertise in Figma and Adobe XD,
+I can design aesthetically pleasing and easy-to-use screens.
+My goal is to transform complex problems into intuitive solutions
+that enhance user engagement and satisfaction.
 
 By combining my skills in UX/UI design and front-end development,
 I am capable of delivering high-quality and user-centric web solutions.
-I am dedicated to creating seamless user experiences and developing robust and scalable web applications
-that meet the needs of both clients and end users.
+I am dedicated to creating seamless user experiences and developing
+robust and scalable web applications that meet the needs of both 
+clients and end users.
 
 ---
 
